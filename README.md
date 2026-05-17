@@ -1,2 +1,2 @@
 # Web-blog
-- Création de mon prémier  blog avec mySQL connécté 
+- Création de mon prémier  blog avec mySQL connecté 
